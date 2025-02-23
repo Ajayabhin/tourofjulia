@@ -1,3 +1,4 @@
 ## tour of julia
 
-hi da murali and lava
+git fetch upstream
+git merge upstream/master
